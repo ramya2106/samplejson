@@ -1,26 +1,199 @@
+[{
+    "name":{
+        "firstname":"James",
+        "lastname":"Spiegel"
+    },
+    "profile_pic":"img",
+    "last_login":"8 hours ago",
+    "story":"Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "likes":5,
+    "liked_persons":[
+        {"name":{
+            "firstname":"James",
+            "lastname":"Spiegel"
+            },
+         "profile_pic":"img"
+        },
+        {"name":{
+            "firstname":"James",
+            "lastname":"Spiegel"
+            },
+         "profile_pic":"img"
+        },
+        {"name":{
+            "firstname":"James",
+            "lastname":"Spiegel"
+            },
+         "profile_pic":"img"
+        }
+    ],
+    "comment":17,
+    "share":20
+ 
+},
 {
     "name":{
         "firstname":"James",
         "lastname":"Spiegel"
     },
+    "profile_pic":"img",
     "last_login":"8 hours ago",
     "story":"Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
-    "likes":"5",
-    "liked_persons":{
-        "name":{
+    "likes":5,
+    "liked_persons":[
+        {"name":{
             "firstname":"James",
             "lastname":"Spiegel"
+            },
+         "profile_pic":"img"
         },
-        "name1":{
+        {"name":{
             "firstname":"James",
             "lastname":"Spiegel"
+            },
+         "profile_pic":"img"
         },
-        "name2":{
+        {"name":{
             "firstname":"James",
             "lastname":"Spiegel"
+            },
+         "profile_pic":"img"
         }
+    ],
+    "comment":17,
+    "comment_persons":[
+        {
+         "name":{
+            "firstname":"James",
+            "lastname":"Spiegel"
+            },
+         "profile_pic":"img",
+         "last_login":"8 hours ago",
+         "comment_content":"xyz",
+         "likes":5,
+         "reply":[
+             {
+                 "name":{
+                     "firstname":"James",
+                     "lastname":"Spiegel"
+                 },
+                 "profile_pic":"img",
+                 "last_login":"8 hours ago",
+                 "reply_content":"abc",
+                 "likes":5,
+                 "reply":"yun"
+             }
+         ]
+        }
+    ],
+    "share":20   
+},
+{
+    "name":{
+        "firstname":"James",
+        "lastname":"Spiegel"
     },
-    "comment":"17",
-    "share":"20"
+    "profile_pic":"img",
+    "last_login":"8 hours ago",
+    "story":"Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "post_img":"img",
+    "likes":5,
+    "liked_persons":[
+        {"name":{
+            "firstname":"James",
+            "lastname":"Spiegel"
+            },
+         "profile_pic":"img"
+        },
+        {"name":{
+            "firstname":"James",
+            "lastname":"Spiegel"
+            },
+         "profile_pic":"img"
+        },
+        {"name":{
+            "firstname":"James",
+            "lastname":"Spiegel"
+            },
+         "profile_pic":"img"
+        }
+    ],
+    "comment":17,
+    "share":20
  
-}
+},
+{
+    "name":{
+        "firstname":"James",
+        "lastname":"Spiegel"
+    },
+    "profile_pic":"img",
+    "last_login":"8 hours ago",
+    "poll_quest":"If you had to choose, which actor do you prefer to be the next Darkman?",
+    "opt1":"Thomas Bale",
+    "opt1_count":10,
+    "voted_persons_opt1":[
+        {"name":{
+            "firstname":"James",
+            "lastname":"Spiegel"
+            },
+         "profile_pic":"img"
+        },
+        {"name":{
+            "firstname":"James",
+            "lastname":"Spiegel"
+            },
+         "profile_pic":"img"
+        },
+        {"name":{
+            "firstname":"James",
+            "lastname":"Spiegel"
+            },
+         "profile_pic":"img"
+        }
+    ],
+    "opt_2":"Ben Robertson",
+    "opt2_count":10,
+    "voted_persons_opt2":[
+        {"name":{
+            "firstname":"James",
+            "lastname":"Spiegel"
+            },
+         "profile_pic":"img"
+        },
+        {"name":{
+            "firstname":"James",
+            "lastname":"Spiegel"
+            },
+         "profile_pic":"img"
+        },
+        {"name":{
+            "firstname":"James",
+            "lastname":"Spiegel"
+            },
+         "profile_pic":"img"
+        }
+    ],
+    "opt_3":"Ben Robertson",
+    "opt3_count":10,
+    "voted_persons_opt3":[
+        {"name":{
+            "firstname":"James",
+            "lastname":"Spiegel"
+            },
+         "profile_pic":"img"
+        },
+        {"name":{
+            "firstname":"James",
+            "lastname":"Spiegel"
+            },
+         "profile_pic":"img"
+        },
+        {"name":{
+            "firstname":"James",
+            "lastname":"Spiegel"
+            },
+         "profile_pic":"img"
+        }
+    ] 
+}]
